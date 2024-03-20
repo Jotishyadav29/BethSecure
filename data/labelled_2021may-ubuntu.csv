@@ -1,0 +1,101 @@
+timestamp,processId,parentProcessId,userId,processName,hostName,eventId,eventName,argsNum,returnValue,args,sus,evil
+125.052149,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7280}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052194,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7281}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052275,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7289}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052221,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7288}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052354,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7290}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.05241,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7291}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052549,7282,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.052302,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7284}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.05238,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7292}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052328,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7282}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052249,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7283}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+125.052984,7282,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.053035,7282,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.053011,7282,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.053219,7282,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.05409,7289,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.054398,7284,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.05459,7280,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.055763,7281,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.05467,7292,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.070161,7283,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.072305,7291,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.05542,7290,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.054483,7288,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.074491,7290,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.07458,7289,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.060635,7288,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.066589,7289,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.068213,7291,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+125.070011,7281,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.072534,7280,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.074621,7284,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.056394,7284,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.074665,7289,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.074705,7284,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.074973,7292,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.075105,7288,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.074769,7288,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.075376,7288,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.075596,7292,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.07571,7284,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.075448,7280,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.075754,7280,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.075858,7289,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.075901,7290,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.075986,7292,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.076028,7281,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.076066,7290,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.076154,7281,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.076484,7283,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+125.084981,7290,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.086847,7280,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.087132,7281,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.087041,7292,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.087341,7291,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.087466,7291,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.087745,7283,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+125.087403,7283,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+125.087913,7283,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.087979,7291,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+125.088264,191,1,0,systemd-udevd,ubuntu,1005,security_file_open,4,0,"[{'name': 'pathname', 'type': 'const char*', 'value': '/sys/fs/cgroup/unified/system.slice/systemd-udevd.service/cgroup.procs'}, {'name': 'flags', 'type': 'int', 'value': 'O_RDONLY|O_LARGEFILE'}, {'name': 'dev', 'type': 'dev_t', 'value': 28}, {'name': 'inode', 'type': 'unsigned long', 'value': 438}]",0,0
+125.092854,191,1,0,systemd-udevd,ubuntu,257,openat,4,14,"[{'name': 'dirfd', 'type': 'int', 'value': -100}, {'name': 'pathname', 'type': 'const char*', 'value': '/sys/fs/cgroup/unified/system.slice/systemd-udevd.service/cgroup.procs'}, {'name': 'flags', 'type': 'int', 'value': 'O_RDONLY|O_CLOEXEC'}, {'name': 'mode', 'type': 'mode_t', 'value': 915717803}]",0,0
+125.092951,191,1,0,systemd-udevd,ubuntu,5,fstat,2,0,"[{'name': 'fd', 'type': 'int', 'value': 14}, {'name': 'statbuf', 'type': 'struct stat*', 'value': '0x7FFFB85BED50'}]",0,0
+125.093176,191,1,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 14}]",0,0
+125.094817,191,1,0,systemd-udevd,ubuntu,1005,security_file_open,4,0,"[{'name': 'pathname', 'type': 'const char*', 'value': '/sys/fs/cgroup/unified/system.slice/systemd-udevd.service/cgroup.threads'}, {'name': 'flags', 'type': 'int', 'value': 'O_RDONLY|O_LARGEFILE'}, {'name': 'dev', 'type': 'dev_t', 'value': 28}, {'name': 'inode', 'type': 'unsigned long', 'value': 439}]",0,0
+125.094883,191,1,0,systemd-udevd,ubuntu,257,openat,4,14,"[{'name': 'dirfd', 'type': 'int', 'value': -100}, {'name': 'pathname', 'type': 'const char*', 'value': '/sys/fs/cgroup/unified/system.slice/systemd-udevd.service/cgroup.threads'}, {'name': 'flags', 'type': 'int', 'value': 'O_RDONLY|O_CLOEXEC'}, {'name': 'mode', 'type': 'mode_t', 'value': 915717803}]",0,0
+125.094992,191,1,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 14}]",0,0
+125.094937,191,1,0,systemd-udevd,ubuntu,5,fstat,2,0,"[{'name': 'fd', 'type': 'int', 'value': 14}, {'name': 'statbuf', 'type': 'struct stat*', 'value': '0x7FFFB85BED50'}]",0,0
+123.745986,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7240}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746034,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7243}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746086,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7250}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746061,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7241}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746136,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7245}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746111,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7252}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746161,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7242}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746186,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7251}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746211,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7246}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746236,191,1,0,systemd-udevd,ubuntu,62,kill,2,0,"[{'name': 'pid', 'type': 'pid_t', 'value': 7244}, {'name': 'sig', 'type': 'int', 'value': 15}]",0,0
+123.746382,7240,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+123.746812,7240,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+123.746837,7240,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+123.746859,7240,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+123.747037,7240,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+123.747144,7243,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+123.747514,7243,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+123.747538,7243,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+123.74756,7243,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+123.747688,7243,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+123.747776,7244,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+123.748126,7244,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+123.748151,7244,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+123.748172,7244,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+123.748297,7244,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+123.749809,7246,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+123.750171,7246,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
+123.750196,7246,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 7}]",0,0
+123.750219,7246,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 5}]",0,0
+123.750346,7246,191,0,systemd-udevd,ubuntu,1010,sched_process_exit,0,0,[],0,0
+123.750422,7245,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 12}]",0,0
+123.750766,7245,191,0,systemd-udevd,ubuntu,3,close,1,0,"[{'name': 'fd', 'type': 'int', 'value': 8}]",0,0
